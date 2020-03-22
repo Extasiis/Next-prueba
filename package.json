@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "export": "next export",
     "start": "cross-env PORT=8000 next start"
   },
   "author": "",
